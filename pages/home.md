@@ -20,19 +20,17 @@ eleventyNavigation:
 
 <!--StartFragment-->
 
-<a href="[](https://ftaa.org.au/news/ftaa/)">
+<a href="<https://ftaa.org.au/news/ftaa/>">
 
 # FTAA నూతన కార్యవర్గం</a>
 
 <!--EndFragment-->
 
-
-
 <div class="media">
       <div class="media-image pr-2 pb-2">
         <h3>Newsletter Signup</h3>
-        <p>\[Full Name]</p> 
-        <p>\[Email]</p> 
+        <p>\\[Full Name]</p> 
+        <p>\\[Email]</p> 
         <p><input type="submit" value="Sign up"></p>
       </div>
       <div class="media-body pb-2">
