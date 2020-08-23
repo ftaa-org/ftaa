@@ -20,11 +20,13 @@ eleventyNavigation:
 
 <!--StartFragment-->
 
-<a href="<https://ftaa.org.au/news/ftaa/>">
+<a href="..[/news/ftaa/](https://ftaa.org.au/news/ftaa/)">
 
 # FTAA నూతన కార్యవర్గం</a>
 
 <!--EndFragment-->
+
+
 
 <div class="media">
       <div class="media-image pr-2 pb-2">
