@@ -20,7 +20,7 @@ eleventyNavigation:
 
 <div class="media">
       <div class="media-body pr-2 pb-2">
-## News
+<h2>News</h2>
 
 [FTAA నూతన కార్యవర్గం](https://ftaa.org.au/news/ftaa/)
 
@@ -29,13 +29,14 @@ eleventyNavigation:
       <div class="media-image pb-2">
 <a href="/news/ftaa/"><img src="https://www.telugumalli.com/wp-content/uploads/2020/08/FTAA-20201.jpg" style="max-width: 150px;"/></a>
       </div>  
+
 </div>      
 
 <div class="media">
       <!--<div class="media-image pr-2 pb-2">
         <h3>Newsletter Signup</h3>
-        <p>\\\[Full Name]</p> 
-        <p>\\\[Email]</p> 
+        <p>\\\\[Full Name]</p> 
+        <p>\\\\[Email]</p> 
         <p><input type="submit" value="Sign up"></p>
       </div>-->
       <div class="media-body pb-2">
