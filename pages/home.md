@@ -21,6 +21,8 @@ eleventyNavigation:
 
 [FTAA నూతన కార్యవర్గం](https://ftaa.org.au/news/ftaa/)
 
+<p><a href="/news/ftaa/"><img src="https://www.telugumalli.com/wp-content/uploads/2020/08/FTAA-20201.jpg" style="max-width: 150px;"/></a></p>
+
 నాలుగేళ్ళ చరిత్రైనా నాలుగు దశాబ్దాలుగా సాధించలేని ఘనతను సాధించింది. భాషా ప్రాతిపదికగా ఒక... [Read more](/news/ftaa/)
 </div>      
 
