@@ -16,14 +16,19 @@ eleventyNavigation:
       <div class="media-image pb-2">
         <img src="/static/img/welcome-img.png" alt="Federation of Telugu Associations in Australia (FTAA) Logo">
       </div>  
+</div>      
 
+<div class="media">
+      <div class="media-body pr-2 pb-2">
 ## News
 
 [FTAA నూతన కార్యవర్గం](https://ftaa.org.au/news/ftaa/)
 
-<p><a href="/news/ftaa/"><img src="https://www.telugumalli.com/wp-content/uploads/2020/08/FTAA-20201.jpg" style="max-width: 150px;"/></a></p>
-
 నాలుగేళ్ళ చరిత్రైనా నాలుగు దశాబ్దాలుగా సాధించలేని ఘనతను సాధించింది. భాషా ప్రాతిపదికగా ఒక... [Read more](/news/ftaa/)
+      </div>
+      <div class="media-image pb-2">
+<a href="/news/ftaa/"><img src="https://www.telugumalli.com/wp-content/uploads/2020/08/FTAA-20201.jpg" style="max-width: 150px;"/></a>
+      </div>  
 </div>      
 
 <div class="media">
