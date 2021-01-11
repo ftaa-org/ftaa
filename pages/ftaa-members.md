@@ -21,4 +21,8 @@ FTAA is made up of several members
 11. Telugu Language Cultural Foundation of Australia ([TLCFA](http://web.archive.org/web/20200308152223/http://www.tlcfa.org.au/))
 12. Telugu a Ladies Club (TLC) an auspice of TAAI ([TLC](http://web.archive.org/web/20200308152223/https://www.facebook.com/Telugu-Ladies-Club-TLC-787046894683634/))
 
+    13. Australia Telugu Samithi
+
+
+
 ![FTAA Main Members](/static/img/members.png)
