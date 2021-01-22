@@ -1,7 +1,7 @@
 const { DateTime } = require("luxon");
-const CleanCSS = require("clean-css");
+// const CleanCSS = require("clean-css");
 const UglifyJS = require("uglify-es");
-const htmlmin = require("html-minifier");
+// const htmlmin = require("html-minifier");
 const eleventyNavigationPlugin = require("@11ty/eleventy-navigation");
 
 module.exports = function(eleventyConfig) {
@@ -48,9 +48,9 @@ module.exports = function(eleventyConfig) {
   });
 
   // Minify CSS
-  eleventyConfig.addFilter("cssmin", function(code) {
-    return new CleanCSS({}).minify(code).styles;
-  });
+//   eleventyConfig.addFilter("cssmin", function(code) {
+//     return new CleanCSS({}).minify(code).styles;
+//   });
 
   // Minify JS
   eleventyConfig.addFilter("jsmin", function(code) {
@@ -63,17 +63,17 @@ module.exports = function(eleventyConfig) {
   });
 
   // Minify HTML output
-  eleventyConfig.addTransform("htmlmin", function(content, outputPath) {
-    if (outputPath.indexOf(".html") > -1) {
-      let minified = htmlmin.minify(content, {
-        useShortDoctype: true,
-        removeComments: true,
-        collapseWhitespace: true
-      });
-      return minified;
-    }
-    return content;
-  });
+//   eleventyConfig.addTransform("htmlmin", function(content, outputPath) {
+//     if (outputPath.indexOf(".html") > -1) {
+//       let minified = htmlmin.minify(content, {
+//         useShortDoctype: true,
+//         removeComments: true,
+//         collapseWhitespace: true
+//       });
+//       return minified;
+//     }
+//     return content;
+//   });
 
   // Don't process folders with static assets e.g. images
   eleventyConfig.addPassthroughCopy("favicon.ico");
