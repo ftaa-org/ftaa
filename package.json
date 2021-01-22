@@ -28,7 +28,6 @@
     "markdown-it-anchor": "^5.3.0"
   },
   "dependencies": {
-    "@11ty/eleventy-navigation": "^0.1.6",
-    "uglify-es": "^3.3.9"
+    "@11ty/eleventy-navigation": "^0.1.6"
   }
 }
