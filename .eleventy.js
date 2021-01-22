@@ -82,20 +82,20 @@ module.exports = function(eleventyConfig) {
   eleventyConfig.addPassthroughCopy("_includes/assets/");
 
   /* Markdown Plugins */
-  let markdownIt = require("markdown-it");
-  let markdownItAnchor = require("markdown-it-anchor");
-  let options = {
-    html: true,
-    breaks: true,
-    linkify: true
-  };
-  let opts = {
-    permalink: false
-  };
+//   let markdownIt = require("markdown-it");
+//   let markdownItAnchor = require("markdown-it-anchor");
+//   let options = {
+//     html: true,
+//     breaks: true,
+//     linkify: true
+//   };
+//   let opts = {
+//     permalink: false
+//   };
 
-  eleventyConfig.setLibrary("md", markdownIt(options)
-    .use(markdownItAnchor, opts)
-  );
+//   eleventyConfig.setLibrary("md", markdownIt(options)
+//     .use(markdownItAnchor, opts)
+//   );
 
   return {
     templateFormats: ["md", "njk", "html", "liquid"],
