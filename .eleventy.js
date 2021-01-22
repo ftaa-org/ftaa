@@ -1,6 +1,6 @@
 const { DateTime } = require("luxon");
 // const CleanCSS = require("clean-css");
-const UglifyJS = require("uglify-es");
+// const UglifyJS = require("uglify-es");
 // const htmlmin = require("html-minifier");
 const eleventyNavigationPlugin = require("@11ty/eleventy-navigation");
 
@@ -53,14 +53,14 @@ module.exports = function(eleventyConfig) {
 //   });
 
   // Minify JS
-  eleventyConfig.addFilter("jsmin", function(code) {
-    let minified = UglifyJS.minify(code);
-    if (minified.error) {
-      console.log("UglifyJS error: ", minified.error);
-      return code;
-    }
-    return minified.code;
-  });
+//   eleventyConfig.addFilter("jsmin", function(code) {
+//     let minified = UglifyJS.minify(code);
+//     if (minified.error) {
+//       console.log("UglifyJS error: ", minified.error);
+//       return code;
+//     }
+//     return minified.code;
+//   });
 
   // Minify HTML output
 //   eleventyConfig.addTransform("htmlmin", function(content, outputPath) {
