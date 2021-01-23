@@ -26,6 +26,6 @@
   },
   "dependencies": {
     
-  }
+  },
   { "engines" : { "npm" : "~6.14.10" } }
 }
