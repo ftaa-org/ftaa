@@ -1,5 +1,5 @@
 ---
-title: FTAA నూతన కార్యవర్గం
+title: FTAA Nutana Karyavargam
 date: 2020-08-22T11:59:51.021Z
 author: FTAA
 summary: నాలుగేళ్ళ చరిత్రైనా నాలుగు దశాబ్దాలుగా సాధించలేని ఘనతను
